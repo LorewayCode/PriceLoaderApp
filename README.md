@@ -1,3 +1,14 @@
+To start the Web-version initialise "run.ps1". The Scripts folder is outdated now as well as the Console version of the app, but i'll keep it here just in case.
+
+Quick start:
+1. Configure the emails in PriceLoaderWeb\appsettings.json. Both "company" inbox and sender emails.
+2. Open Docker Desktop and run "run.ps1" via Powershell.
+3. In the console it will show a localhost url. Open it in your browser, it should open the web interface of the app. 
+4. DO NOT close the Powershell window, the app only runs with it open and stops when the console is closed.
+
+The app should read both .csv and Excel files.
+
+
 # PriceLoaderApp
 
 Консольное приложение для автоматической загрузки прайс-листов автозапчастей
