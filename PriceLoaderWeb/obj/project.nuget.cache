@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIil1Cc/qYM=",
+  "success": true,
+  "projectFilePath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\closedxml\\0.104.1\\closedxml.0.104.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mailkit\\4.7.1\\mailkit.4.7.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.11\\microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.11\\microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.11\\microsoft.entityframeworkcore.analyzers.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.11\\microsoft.entityframeworkcore.relational.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mimekit\\4.7.1\\mimekit.4.7.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.11\\npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\rbush\\3.2.0\\rbush.3.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Encoding.CodePages не будет урезано. Рассмотрите возможность удаления этого пакета из зависимостей, так как он, вероятно, не требуется.",
+      "projectPath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "libraryId": "System.Text.Encoding.CodePages",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "У пакета \"MimeKit\" 4.7.1 есть известная уязвимость https://github.com/advisories/GHSA-g7hc-96xr-gvvx (уровень серьезности: средний)",
+      "projectPath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "libraryId": "MimeKit",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"System.IO.Packaging\" 8.0.0 есть известная уязвимость https://github.com/advisories/GHSA-f32c-w444-8ppv (уровень серьезности: высокий)",
+      "projectPath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "libraryId": "System.IO.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"System.IO.Packaging\" 8.0.0 есть известная уязвимость https://github.com/advisories/GHSA-qj66-m88j-hmgj (уровень серьезности: высокий)",
+      "projectPath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\PLAppCopy1\\PriceLoaderWeb\\PriceLoaderWeb.csproj",
+      "libraryId": "System.IO.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

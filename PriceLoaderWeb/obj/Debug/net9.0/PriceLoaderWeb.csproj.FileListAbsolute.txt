@@ -1,0 +1,82 @@
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.AssemblyInfoInputs.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.AssemblyInfo.cs
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.csproj.CoreCompileInputs.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.RazorAssemblyInfo.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.RazorAssemblyInfo.cs
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.csproj.AssemblyReference.cache
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\appsettings.Development.json
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\appsettings.json
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.staticwebassets.endpoints.json
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.exe
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.deps.json
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.runtimeconfig.json
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.pdb
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\CsvHelper.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\MailKit.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\MimeKit.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\Npgsql.dll
+E:\PLApp copy1\PriceLoaderWeb\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\scopedcss\bundle\PriceLoaderWeb.styles.css
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.build.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.development.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\swae.build.ex.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoa.0A71FA3F.Up2Date
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.dll
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\refint\PriceLoaderWeb.dll
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.pdb
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.genruntimeconfig.cache
+E:\PLApp copy1\PriceLoaderWeb\obj\Debug\net9.0\ref\PriceLoaderWeb.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\appsettings.Development.json
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\appsettings.json
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.staticwebassets.endpoints.json
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.exe
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.deps.json
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.runtimeconfig.json
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\PriceLoaderWeb.pdb
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\CsvHelper.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\MailKit.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\MimeKit.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\Npgsql.dll
+E:\PLAppCopy1\PriceLoaderWeb\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.csproj.AssemblyReference.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.AssemblyInfoInputs.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.AssemblyInfo.cs
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.csproj.CoreCompileInputs.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.RazorAssemblyInfo.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.RazorAssemblyInfo.cs
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\scopedcss\bundle\PriceLoaderWeb.styles.css
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.build.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.development.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\swae.build.ex.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoa.0A71FA3F.Up2Date
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.dll
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\refint\PriceLoaderWeb.dll
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.pdb
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\PriceLoaderWeb.genruntimeconfig.cache
+E:\PLAppCopy1\PriceLoaderWeb\obj\Debug\net9.0\ref\PriceLoaderWeb.dll
